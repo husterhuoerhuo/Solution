@@ -1,0 +1,8 @@
+﻿  uic Solution.ui
+  rcc Solution.qrc
+  moc Solution.h
+  Solution.cpp
+  main.cpp
+  qrc_Solution.cpp
+  moc_Solution.cpp
+  Solution.vcxproj -> D:\Solution\Solution\x64\Debug\Solution.exe

@@ -1,0 +1,2 @@
+D:\Solution\Solution\x64\Debug\Solution.exe
+D:\Solution\Solution\x64\Debug\Solution.pdb
