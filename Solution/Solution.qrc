@@ -1,5 +1,7 @@
 <RCC>
     <qresource prefix="/Solution">
         <file>Resuorce/01.ico</file>
+        <file>Resuorce/02.ico</file>
+        <file>Resuorce/03.ico</file>
     </qresource>
 </RCC>
